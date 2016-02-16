@@ -1,0 +1,11 @@
+p {
+    color: green;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+button {
+    display: block;
+}
